@@ -1,0 +1,101 @@
+  490  apt install python3.8-venv
+  491  python -m venv env
+  492  python3 -m venv env
+  493  source ./env/bin/activate
+  494  pip install h3
+  495  git clone https://github.com/uber/h3.git
+  496  cd h3
+  497  git checkout
+  498  # Installing the bare build requirements
+  499  sudo apt install cmake make gcc libtool
+  500  apt install cmake make gcc libtool
+  501  apt install clang-format cmake-curses-gui lcov doxygen
+  502  mkdir build
+  503  ls
+  504  cd build/
+  505  cd build
+  506  cmake ..
+  507  cmake --build .
+  508  ls
+  509  cd CMakeFiles/
+  510  LS
+  511  ls
+  512  cd ..
+  513  cmake ..
+  514  clear
+  515  cmake ..
+  516  ls
+  517  clear
+  518  ls
+  519  cd ..
+  520  ls
+  521  cmake ..
+  522  clear
+  523  ls
+  524  cd build/
+  525  cmake ..
+  526  cd ..
+  527  cmake 
+  528  ls
+  529  cd build/
+  530  clear
+  531  cmake ..
+  532  cd build
+  533  cmake ..
+  534  cmake .
+  535  cmake 
+  536  cd ..
+  537  cd build/
+  538  dir
+  539  cmake ..
+  540  cmake --build .
+  541  cmake ..
+  542  sudo apt-get remove cmake cmake-data
+  543  sudo apt-get install cmake3 cmake3-data
+  544  apt-get update -y
+  545  ls
+  546  apt install -y
+  547  apt install update -y
+  548  apt install upgrade -y
+  549  clear
+  550  ls
+  551  cd uber/
+  552  ls
+  553  source ./env/bin/activate
+  554  cd h3/
+  555  cd build/
+  556  cmake ..
+  557  sudo apt-get update -y
+  558  sudo apt install cmake
+  559  cmake ..
+  560  pip install cmake
+  561  cmake ..
+  562  cd ..
+  563  cmake 
+  564  cmake ..
+  565  clear
+  566  cd build/
+  567  cmake ..
+  568  ~ cmake --version
+  569  cmake --version
+  570  clear
+  571  cmake --version
+  572  pip install cmake --upgrade
+  573  sudo apt-get remove cmake cmake-data
+  574  cd uber/
+  575  cd h3/
+  576  cd ..~
+  577  cd ..
+  578  source ./env/bin/activate
+  579  cd h3/
+  580  cd build/
+  581  cmake ..
+  582  cmake --build .
+  583  ctest
+  584  ls
+  585  sudo apt update
+  586  sudo apt install code
+  587  apt install code
+  588  snap install code
+  589  cd ..
+  590  chmod 777 uber/
